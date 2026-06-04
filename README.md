@@ -21,9 +21,9 @@ This repository contains extension catalogues which are compatible with [Komikku
 
 ## How to add the repo
 
-**Extensions list:** [Yūzōnō's cursed manga](https://warpdotsys.github.io/cursed-manga-extensions/extensions/)
+**Extensions list:** [WarpDotSys's cursed manga](https://warpdotsys.github.io/cursed-manga-extensions/extensions/)
 
-* You can add our repo by visiting the [Yūzōnō Website](https://warpdotsys.github.io/cursed-manga-extensions/)
+* You can add our repo by visiting the [WarpDotSys Website](https://warpdotsys.github.io/cursed-manga-extensions/)
 * Otherwise, copy & paste the following URL:
 
 ```html
