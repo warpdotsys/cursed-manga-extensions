@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/komikku-app/komikku/issues/
     about: Issues and requests about the app itself should be opened in Komikku's repository instead
   - name: 📦 Extension list
-    url: https://yuzono.github.io/extensions
+    url: https://warpdotsys.github.io/extensions
     about: List of all available extensions with download links
   - name: 🖥️ Komikku website
     url: https://komikku-app.github.io/docs/guides/troubleshooting/
